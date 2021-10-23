@@ -3,7 +3,7 @@ Odin Recipes
 
 This is an *incredibly* basic website made from a simple home page with links to various pages containing recipes for food.
 
-I created this project to practice using very basic elements of HTML such as: 
+I created this project to get some practice using the most basic of html elements such as: 
 
  - Images
  - Headers
