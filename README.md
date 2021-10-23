@@ -1,15 +1,15 @@
 Odin Recipes
 ------------
 
-This is an *incredibly* basic website made up of a simple home page with links to various pages containing recipes for food.
+This is an *incredibly* basic website made from a simple home page with links to various pages containing recipes for food.
 
-I created this project to put to practice some very basic elements of HTML such as: 
+I created this project to get some practice using the most basic of html elements such as: 
 
- - Inserting images
+ - Images
  - Headers
  - Paragraphs
  - Ordered Lists
  - Unordered Lists 
  - Hyperlinks
-
- *All recipes & images were taken from [Allrecipes](https://www.allrecipes.com/)*
+ 
+ *All recipes & images taken from [Allrecipes](https://www.allrecipes.com/)*
