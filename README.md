@@ -12,5 +12,4 @@ I created this project to put to practice some very basic elements of HTML such 
  - Unordered Lists 
  - Hyperlinks
 
- *All recipes & images taken from [Allrecipes]
- (https://www.allrecipes.com/)*
+ *All recipes & images taken from [Allrecipes](https://www.allrecipes.com/)*
