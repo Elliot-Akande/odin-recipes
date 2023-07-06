@@ -1,7 +1,7 @@
 Odin Recipes
 ------------
 
-This is an *incredibly* basic website made from a simple home page with links to various pages containing recipes for food.
+This is an *incredibly* basic website consisting of a home page with links to pages containing recipes for food.
 
 I created this project to get some practice using the most basic of html elements such as: 
 
